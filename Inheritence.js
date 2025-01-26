@@ -49,7 +49,7 @@ console.log(she.talk())
 
 //The second type of inheritance is done using the pure objects. this is known as Prototypal Inheritance
 // Here is a function used in the inheritance 
-function Hunters(){
+function hunters(){
     this.fight = function(){ //talk method in form of function expression
         return 'Fighting'
     }
