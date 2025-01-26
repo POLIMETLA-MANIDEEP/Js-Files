@@ -55,7 +55,7 @@ function hunters(){
     }
 }
 
-const i = new Hunters();
+const i = new hunters();
 console.log(i.fight())
 //Back to classes
 class MetaHuman extends Person{
